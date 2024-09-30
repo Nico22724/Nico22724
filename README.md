@@ -15,7 +15,7 @@ busco oportunidades para aplicar mis habilidades en proyectos reales. Estoy comp
 
 ## Aprendizaje Actual
 
-Actualmente, estoy profundizando en **Azure** y preparándome para la certificación **AZ-204**, además de explorar conceptos de **Machine Learning**.
+Actualmente, estoy profundizando en **Azure** y preparándome para la certificación **AZ-204**,  además estoy especializandome en **Machine Learning**.
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
