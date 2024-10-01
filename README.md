@@ -1,11 +1,10 @@
 # Analista de Datos
 ## Skills
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="Power BI" width="60" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="140" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="60" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="50"/>
+  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="Power BI" width="60" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="140" height="50"/>
 </p>
 
 ### About Me
@@ -15,9 +14,12 @@ busco oportunidades para aplicar mis habilidades en proyectos reales. Estoy comp
 
 ## Aprendizaje Actual
 
-Actualmente, estoy profundizando en **Azure** y preparándome para la certificación **AZ-204**,  además estoy especializandome en **Machine Learning**.
+Actualmente, estoy profundizando en **Azure** y preparándome para la certificación **AZ-204**, además de especializarme en **Machine Learning**. También estoy aprendiendo **Looker**, **Dataproc**, **BigQuery** y **Cloud Storage** como herramientas de **Google Cloud**, junto con **R** y bases de datos con **Azure**.
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios/50/000000/machine-learning.png" alt="Machine Learning" width="40" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="50" height="50"/>
+  <img src="https://img.icons8.com/ios/50/000000/machine-learning.png" alt="Machine Learning" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="50" height="50"/>
 </p>
+
