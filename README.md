@@ -1,5 +1,5 @@
 # Analista de Datos
-## Skills
+## Habilidades
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="50"/>
@@ -7,7 +7,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="140" height="50"/>
 </p>
 
-### About Me
+### Sobre Mi
 Soy un apasionado del Análisis de Datos, con un enfoque en la extracción, limpieza y análisis de grandes volúmenes de datos. Me gusta comunicar hallazgos de manera efectiva a través de informes y presentaciones visuales, facilitando la toma de decisiones basadas en datos.
 
 busco oportunidades para aplicar mis habilidades en proyectos reales. Estoy comprometido con mantenerme al día con las últimas tendencias y tecnologías en el campo, y disfruto participar en comunidades y eventos de análisis de datos, donde puedo intercambiar conocimientos y aprender de otros profesionales.
@@ -22,4 +22,7 @@ Actualmente, estoy profundizando en **Azure** y preparándome para la certificac
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="50" height="50"/>
 </p>
+
+## Contactamente
+Correo : hoyosnicolas112@gmail.com
 
